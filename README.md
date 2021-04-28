@@ -1,2 +1,2 @@
-# Jogo-da-forca
-Jogo da forca em python, usando laços de repetição
+# Jogos-classicos
+Jogos clássicos em python, usando funções e listas de repetição
